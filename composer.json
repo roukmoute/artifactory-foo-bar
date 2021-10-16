@@ -1,0 +1,18 @@
+{
+    "name": "roukmoute/artifactory-foo-bar",
+    "description": "foo-bar",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Roukmoute\\ArtifactoryFooBar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathias STRASSER",
+            "email": "contact@roukmoute.fr"
+        }
+    ],
+    "require": {}
+}
