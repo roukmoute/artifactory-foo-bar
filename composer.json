@@ -14,5 +14,7 @@
             "email": "contact@roukmoute.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/psr7": "^2.1"
+    }
 }
